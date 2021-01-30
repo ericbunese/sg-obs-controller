@@ -1,0 +1,6 @@
+{
+    "server": {
+        "port" : 4200
+    },
+    "obs": "localhost:4444"
+}
